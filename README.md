@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonwoo-han&show_icons=true&theme=onedark) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ziczin7176)](https://solved.ac/ziczin7176)
+![hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonwoo-han&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonwoo-han&layout=compact&theme=onedark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ziczin7176)](https://solved.ac/ziczin7176)
