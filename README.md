@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonwoo-han%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **hyeonwoo-han/hyeonwoo-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonwoo-han&show_icons=true&theme=onedark)  
+![hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonwoo-han&show_icons=true&theme=onedark) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ziczin7176)](https://solved.ac/ziczin7176)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonwoo-han&layout=compact&theme=onedark)
